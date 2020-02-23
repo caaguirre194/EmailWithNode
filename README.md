@@ -1,6 +1,6 @@
 # EmailWithNode
 Servidor de envío de correos con Node.js y NodeMailer
-## Spring Boot - Angular:
+## Node.js - Nodemailer:
  ![GitHub](/img/node+nodemailer.png)
  
 Se usa:
