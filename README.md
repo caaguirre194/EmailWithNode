@@ -1,5 +1,5 @@
 # EmailWithNode
-Servidor de correos con Node.js y NodeMailer
+Servidor de correos con NodeMailer & Node.js
 ## Node.js - Nodemailer:
  ![GitHub](/img/node+nodemailer.png)
  
